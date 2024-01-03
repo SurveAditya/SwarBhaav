@@ -1,0 +1,86 @@
+01/09/21, 1:27 pm - Archit Rathod: Hi Archit here
+Are you in any team?
+01/09/21, 1:32 pm - Nahush Patil: Hi Archit
+01/09/21, 1:32 pm - Nahush Patil: Yeah Gargi and I are a team...you wanna join in?
+01/09/21, 1:32 pm - Archit Rathod: Ok Np
+01/09/21, 1:32 pm - Nahush Patil: Cool
+01/09/21, 1:44 pm - Archit Rathod: Kya topic le??
+01/09/21, 1:45 pm - Nahush Patil: Me grp banaya hai uspe discuss karte hai
+06/09/21, 2:40 pm - Nahush Patil: Hey Archit...vo format wala part kaise karna hai?
+06/09/21, 2:41 pm - Archit Rathod: Kuch nhi alag alag dor mat specifiers ko use karke output dena hai
+06/09/21, 2:41 pm - Archit Rathod: Should i send that part?
+06/09/21, 2:42 pm - Nahush Patil: Ek chota part send karna pls
+06/09/21, 2:42 pm - Archit Rathod: Ha
+06/09/21, 2:42 pm - Archit Rathod: Format*
+06/09/21, 2:43 pm - Archit Rathod: // char
+        char a = 'A';
+        printf("%c\n", a);
+
+        // int
+        int b = 65;
+        printf("%d\n", b);
+
+        short int c = 30655;
+        printf("%hd\n", c);
+
+        long int d = 30655;
+        printf("%ld\n", d);
+
+        // float
+        float e = 6.27;
+        printf("%f\n", e);
+06/09/21, 2:43 pm - Nahush Patil: Ohh okay got it
+06/09/21, 2:43 pm - Nahush Patil: Thanks a lot!!
+06/09/21, 2:43 pm - Archit Rathod: Np
+06/09/21, 3:05 pm - Nahush Patil: Tera Fibonacci wala hua hai kya?
+06/09/21, 3:06 pm - Archit Rathod: Yes
+06/09/21, 3:06 pm - Archit Rathod: But mene functions se nhi kiya hai
+06/09/21, 3:06 pm - Nahush Patil: ek baar send karna...mera vo wala part hi bacha hai
+06/09/21, 3:07 pm - Archit Rathod: System.out.print("Enter the number of terms (>2) : ");
+                    n = s.nextInt();
+
+                    System.out.println("The first " + n + "terms of the Fibonacci Series are : ");
+                    System.out.print(a);
+
+                    for (i = 1; i < n; i++) {
+                        c = a + b;
+                        a = b;
+                        b = c;
+                        System.out.print(", " + b);
+                    }
+06/09/21, 3:07 pm - Archit Rathod: int a= 0,b=1
+06/09/21, 3:08 pm - Nahush Patil: check karna hai na ki number fibonacci series me aata hai ya nahi?
+06/09/21, 3:09 pm - Archit Rathod: oh
+06/09/21, 3:09 pm - Archit Rathod: I thought print karna hai
+06/09/21, 3:09 pm - Nahush Patil: me puch raha hu...merko bhi sure nahi hai
+06/09/21, 3:09 pm - Archit Rathod: 3. testPalindrome()
+06/09/21, 3:10 pm - Archit Rathod: test likha hai shayad check karna hoga
+06/09/21, 3:10 pm - Nahush Patil: yeah
+06/09/21, 3:10 pm - Nahush Patil: tu kar raha hai present?
+06/09/21, 3:14 pm - Archit Rathod: Ha
+06/09/21, 3:16 pm - Nahush Patil: cool
+06/09/21, 3:19 pm - Archit Rathod: Woh bank wala kiya?
+06/09/21, 3:19 pm - Nahush Patil: yes
+06/09/21, 3:19 pm - Archit Rathod: 👍🏻
+08/09/21, 1:42 pm - Nahush Patil: Apne database ka kya aayega?
+08/09/21, 1:42 pm - Nahush Patil: Multivalue
+08/09/21, 1:42 pm - Archit Rathod: No of books borrowed
+08/09/21, 1:42 pm - Archit Rathod: ?
+08/09/21, 1:42 pm - Nahush Patil: Customer ka phone number
+08/09/21, 1:42 pm - Nahush Patil: Yeah
+08/09/21, 1:42 pm - Archit Rathod: Ha
+09/09/21, 10:17 am - Nahush Patil: Kya kiya apan ne?😂
+09/09/21, 10:18 am - Archit Rathod: Pata nhi 😂
+09/09/21, 10:18 am - Archit Rathod: Shayad woh email bheja tha usliye .
+09/09/21, 10:19 am - Nahush Patil: Yeah maybe
+09/09/21, 11:09 am - Nahush Patil: 2d array me bhi same operations?
+09/09/21, 11:09 am - Archit Rathod: Ha bola toh hai
+09/09/21, 11:10 am - Archit Rathod: Par how do we do ascending and descending?
+09/09/21, 11:10 am - Nahush Patil: Vahi me bhi soch raha hu
+09/09/21, 11:10 am - Archit Rathod: Ha
+09/09/21, 11:22 am - Nahush Patil: Vs code me terminal me zoom kaise karte hai?
+09/09/21, 11:22 am - Archit Rathod: Ctrl +
+09/09/21, 11:23 am - Nahush Patil: Cool thanks
+09/09/21, 11:23 am - Archit Rathod: Np
+11/09/21, 8:10 am - Nahush Patil: Hi Archit...tera pcpf ka extra assignment ho gaya kya?
+11/09/21, 8:53 am - Archit Rathod: Ha

@@ -1,0 +1,10 @@
+/* print.css */
+@media print {
+    body * {
+        display: none;
+    }
+
+    .modal-print-content {
+        display: block;
+    }
+}
